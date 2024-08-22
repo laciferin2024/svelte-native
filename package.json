@@ -10,7 +10,9 @@
   "repository": "https://github.com/halfnelson/svelte-native-template",
   "scripts": {
     "start": "ns run android",
-    "s": "ns run ios"
+    "s": "ns run ios",
+    "doctor": "ns doctor",
+    "ns": "ns run"
   },
   "dependencies": {
     "@nativescript/core": "~7.0.0",
